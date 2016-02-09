@@ -30,9 +30,22 @@
   margin-bottom: 30px;
 }
 .arrow {
-  margin-top: 160px;
+  margin-top: 300px;
 }
 
-.bio {
-  margin-top: 25px;
+.clickable {
+  cursor: pointer;
+}
+
+.nomeow {
+  display: none;
+  font-size: 125px;
+}
+
+.invert {
+  -webkit-filter: invert(100%);
+}
+
+#inverted {
+  cursor: pointer;
 }
