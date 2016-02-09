@@ -11,3 +11,28 @@
   margin-left: 25px;
   margin-right: 25px;
 }
+
+.black-background {
+  background-color: black;
+  color: white;
+}
+
+.white-background {
+  background-color: white;
+  color: black;
+}
+
+.header {
+  border: 2px solid black;
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+}
+.arrow {
+  margin-top: 160px;
+}
+
+.bio {
+  margin-top: 25px;
+}
