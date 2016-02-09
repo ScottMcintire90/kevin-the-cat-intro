@@ -1,0 +1,13 @@
+.column1 {
+  width: 400px;
+  float: left;
+  font-size: 18px;
+  margin-right: 25px;
+
+}
+.column2 {
+  width: 600px;
+  float: left;
+  margin-left: 25px;
+  margin-right: 25px;
+}
