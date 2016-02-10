@@ -16,8 +16,7 @@ $(document).ready(function()  {
   });
 
   $("#inverted").click(function() {
-    $("img").removeClass("invert");
-    $("img").addClass("invert");
+    $("img").toggleClass("invert");
   });
 
 });
